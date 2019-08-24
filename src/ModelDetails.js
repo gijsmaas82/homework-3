@@ -17,9 +17,7 @@ export default class ModelDetails extends React.Component {
           <li>year: {computers[0][0].year}</li> 
           <li>origin: {computers[0][0].origin}</li> 
         </ul> }
-      
       </div>
-      
     )
   }     
 }
